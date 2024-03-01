@@ -25,7 +25,7 @@ Models were evaluated based on accuracy, precision, recall, F1-score, and ROC-AU
 
 ## Analysis Summary
 
-After thorough analysis and tuning, it was found that all three models performed well on the test data. However, considering the precision, recall, and overall F1-score, especially in a medical context where both false positives and false negatives carry significant consequences, SVM with Randomized Search CV emerged as the most balanced algorithm.
+After thorough analysis and tuning, it was found that all three models performed well on the test data. However, considering the precision, recall, and overall F1-score, especially in a medical context where both false positives and false negatives carry significant consequences, **SVM with Randomized Search CV** emerged as the most balanced algorithm.
 
 ## Usage
 
